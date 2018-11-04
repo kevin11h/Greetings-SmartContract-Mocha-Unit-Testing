@@ -17,6 +17,7 @@ Web Resources, Networks and APIs
 +  faucet.rinkeby.io/
 +  rinkeby.etherscan.io (insert your account address!)
 +  web3js.readthedocs.io/en/1.0/web3-eth-contract.html
++  remix.ethereum.org
 
 Installations
 
