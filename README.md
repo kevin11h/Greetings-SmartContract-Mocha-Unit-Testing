@@ -17,7 +17,6 @@ Web Resources, Networks and APIs
 +  faucet.rinkeby.io/
 +  rinkeby.etherscan.io (insert your account address!)
 +  web3js.readthedocs.io/en/1.0/web3-eth-contract.html
-+  remix.ethereum.org
 
 Installations
 
@@ -25,7 +24,11 @@ Installations
 +  npm install --save mocha ganache-cli web3@1.0.0-beta.34
 +  npm install --save solc
 +  npm run test
++  npm install --save web3@1.0.0-beta.34
 
 Commands
 
 +  node deploy
+
+
+
